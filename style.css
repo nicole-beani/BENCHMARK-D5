@@ -169,3 +169,8 @@ header>img{
     padding: 20px;
    
 }
+#ultimo-border{
+    border-bottom: 1px solid white;
+    width: 20rem;
+    padding-left: 20px;
+}

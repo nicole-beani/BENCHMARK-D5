@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+html {font-size: 62.5%;}
+body { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    
+    line-height: 1.65em;
+  
+}
+.headings{
+    font-family: 'Montserrat', sans-serif;
+    color: #25b6c3;
+    padding: 15px;
+    line-height: 1.2;
+    margin: 0;
+  
+}
+#banner{
+    background-image: url(assets/banner.jpg) ;
+   background-size:cover;
+    background-position: center;
+}
+
+
+header {
+    
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1.5em;
+    background-color: black;
+    
+}
+
+    
+
+main {
+    text-align: center;
+    margin-bottom: 3em;
+    font-size: 2rem; 
+}
+
+h1 {
+    font-size: 2.6rem;
+    font-weight: bold;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.7em;
+}
+
+iframe {
+    width: 100%;
+    height: auto;
+    margin-bottom: 2em;
+    border-radius: 20px;
+}
+
+button {
+    
+    padding: 8px 15px;
+    background-color: #f04c2f;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    margin: 15px;
+    font-size: 1.2em;
+}
+aside{
+    text-align: center;
+    margin: 3rem;
+    font-size: 2rem; 
+}
+main h2{
+    text-align: center;
+   
+    font-size: 2rem;
+    font-weight: bold;
+    
+    margin-bottom: 1em;
+}
+aside h2 {
+    text-align: center;
+  
+    font-size: 2rem;
+    font-weight: bold;
+    
+    margin-bottom: 1em;
+}
+aside div {
+    background-color: #ffffff;
+    border: 0.5px solid #c3c3c3;
+    margin-bottom: 2em;
+
+   
+}
+
+footer {
+   color: #c8e7f0;
+   
+    background-color: #25a2c3;
+    padding: 48px;
+    text-align: center;
+    font-size: 1.8em;
+}
+
+main:first-of-type img{
+    border-radius: 50%;
+}
+
+#paragrafo-iniziale{
+    text-align: center;
+  
+    font-size: 1.4em;
+   
+    
+    margin-bottom: 1em;
+}
+p{
+    line-height: 1.8;
+}
+ #rosso{
+    background-color: rgb(255, 54, 32) ;
+    color: white;
+    padding:45px ;
+ }
+ #epicode-garantisce{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 12px;
+    line-height: 1;
+    margin: 0rem;
+    font-size: 1.7em;
+ }
+ .paragrafi{
+    padding-bottom: 20px;
+ }
+  
+.aside-p{
+    padding-bottom: 20px;
+}
+#contattaci{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-bottom: 29px;
+    padding-top: 2px;
+    line-height: 1;
+    margin: 0rem;
+    font-size: 1.7em 
+}
+a{
+    color: white;
+    line-height: 1.5;
+}
+#footer-p{
+    font-size: small;
+    padding-top: 18px;
+}
+ 

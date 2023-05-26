@@ -20,6 +20,7 @@ body {
     background-image: url(assets/banner.jpg) ;
    background-size:cover;
     background-position: center;
+    padding: 30px;
 }
 
 
@@ -56,13 +57,13 @@ iframe {
 
 button {
     
-    padding: 8px 15px;
+    padding: 12px 35px;
     background-color: #f04c2f;
     border: 0px;
     color: white;
     font-weight: bold;
     margin: 15px;
-    font-size: 1.2em;
+    font-size: 1.4em;
 }
 aside{
     text-align: center;
@@ -109,7 +110,7 @@ main:first-of-type img{
 #paragrafo-iniziale{
     text-align: center;
   
-    font-size: 1.4em;
+    font-size: 1.8em;
    
     
     margin-bottom: 1em;
@@ -156,3 +157,15 @@ a{
     padding-top: 18px;
 }
  
+#header-h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #25b6c3;
+    padding: 15px;
+    line-height: 1.2;
+    margin: 0;
+    font-size: 3.7em;
+}
+header>img{
+    padding: 20px;
+   
+}
